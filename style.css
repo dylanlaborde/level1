@@ -1,0 +1,33 @@
+
+
+.head{
+	border-style: solid;
+}
+
+.head, .buttonhead{
+	text-align: right;
+}
+
+.head, .logo{
+	text-align: left;
+}
+
+.corp,img{
+	border-style: solid;
+}
+
+h1{
+	text-align: right;
+
+}
+
+p{
+	text-align: right;
+}
+.liste{
+     text-align: right;
+}
+
+.product{
+	
+}
